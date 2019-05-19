@@ -19,7 +19,7 @@ spring:
     password: guest
   redis:
     host: 127.0.0.1
-    password: WisdomRing2018
+    password: "WisdomRing2018"
     port: 6379
     timeout: 0
   datasource:
